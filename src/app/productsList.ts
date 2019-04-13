@@ -5,7 +5,7 @@ export const PRODUCTS: Product[] = [
   { id: 12, name: 'Speakers' },
   { id: 13, name: 'Chair' },
   { id: 14, name: 'Table' },
-  { id: 15, name: 'Phone' },
+  { id: 15, name: 'Phone' }, //sss
   { id: 16, name: 'Bag' },
   { id: 17, name: 'Charger' },
   { id: 18, name: 'Computer' },
